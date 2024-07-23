@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "260585547493",
+    "project_id": "testsignin-99b28",
+    "storage_bucket": "testsignin-99b28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260585547493:android:dd3e535990d7194880160c",
+        "android_client_info": {
+          "package_name": "com.roa.signin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVVViIkCLoWceMayy0v3zhwrrTe-syvQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
